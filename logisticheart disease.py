@@ -42,18 +42,8 @@ data.isnull().sum()
 # In[9]:
 
 
-"""
-bpmeds dont disturb
-edc
 
 
-cigsperday(avg)
-totchol avg
-bmi avg
-heart rate avg
-glucose avg
-
-"""
 
 
 # In[10]:
